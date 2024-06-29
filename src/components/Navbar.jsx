@@ -26,7 +26,7 @@ function Navbar(props){
     return <div>
         <div className='NavigationBar' >
             <div>
-                <img className="TicTacToeImage"  src = "/tictactoe-img.png" onMouseOver={MouseOver1} onMouseOut={MouseOut1}/>
+                <img className="TicTacToeImage"  src = "./tictactoe-img.png" onMouseOver={MouseOver1} onMouseOut={MouseOut1}/>
             </div>
             <div className="Player">
                 <div className="Player1">
