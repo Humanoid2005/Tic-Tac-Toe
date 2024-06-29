@@ -29,7 +29,12 @@ function App() {
         else if(startfirst==false){
             setplayer("❌ "+playernames.player2name);
         }
-        setturn(0);
+        if(startfirst==true){
+            setturn(0);
+        }
+        else{
+            setturn(1);
+        }
     }
 
     function CheckWon(){
