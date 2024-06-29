@@ -1,8 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tic Tac Toe WebApp
 
-Currently, two official plugins are available:
+This is a basic webapp on which users can play the game Tic-Tac-Toe.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Tech Stack
+
+HTML, CSS, Javascript, ReactJS
+
+
+## Website
+
+Click on the link given below to view the web-app.
+
+https://humanoid2005.github.io/Tic-Tac-Toe/
+
+
